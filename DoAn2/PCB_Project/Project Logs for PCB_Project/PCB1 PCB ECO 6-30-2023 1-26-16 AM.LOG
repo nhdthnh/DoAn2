@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=DHT1 Old DesignItemId=JP 1x3 2.54 Cai Cong New DesignItemId=JP 1x3 2.54 Cai Thang
+Change Component Footprint: Designator=DHT1 Old Footprint=JP 1x3 CC New Footprint=JP 1x3 CT
+Change component parameters: Designator = "DHT1" ("DHT1"); Footprint = "JP 1x3 CC"; UniqueID = "\DCECOUYU" ("\DCECOUYU")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"

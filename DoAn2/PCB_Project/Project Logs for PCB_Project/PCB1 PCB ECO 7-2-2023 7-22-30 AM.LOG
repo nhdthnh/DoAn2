@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator= NewDesignator=ESP1
+Added Pin To Net: NetName=5V Pin=DHT1-1
+Added Pin To Net: NetName=GND Pin=DHT1-3
+Added Pin To Net: NetName=GND Pin=ESP1-2
+Added Pin To Net: NetName=switchpage Pin=ESP1-4
+Added Pin To Net: NetName=RESTART Pin=ESP1-5
+Added Pin To Net: NetName=R1 Pin=ESP1-6
+Added Pin To Net: NetName=R2 Pin=ESP1-7
+Added Pin To Net: NetName=GND1 Pin=ESP1-29
+Added Pin To Net: NetName=5V Pin=ESP1-30
+Added Pin To Net: NetName=5V Pin=FLame1-1
+Added Pin To Net: NetName=GND1 Pin=FLame1-2
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=5V Pin=LCD-2
+Added Pin To Net: NetName=5V Pin=MQ1-1
+Added Pin To Net: NetName=GND1 Pin=MQ1-2
+Added Pin To Net: NetName=DHT11 Pin=DHT1-2
+Added Pin To Net: NetName=DHT11 Pin=ESP1-3
+Added Net: Name=DHT11
+Added Pin To Net: NetName=FLAME Pin=ESP1-20
+Added Pin To Net: NetName=FLAME Pin=FLame1-3
+Added Net: Name=FLAME
+Added Pin To Net: NetName=MQ2 Pin=ESP1-19
+Added Pin To Net: NetName=MQ2 Pin=MQ1-4
+Added Net: Name=MQ2
+Added Pin To Net: NetName=RL1 Pin=ESP1-22
+Added Pin To Net: NetName=RL1 Pin=R11-1
+Added Net: Name=RL1
+Added Pin To Net: NetName=RL2 Pin=ESP1-21
+Added Pin To Net: NetName=RL2 Pin=R12-1
+Added Net: Name=RL2
+Added Pin To Net: NetName=SCL Pin=ESP1-14
+Added Pin To Net: NetName=SCL Pin=LCD-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=ESP1-11
+Added Pin To Net: NetName=SDA Pin=LCD-3
+Added Net: Name=SDA

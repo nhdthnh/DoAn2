@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetLED_1 Pin=R2-1
+Removed Pin From Net: NetName=D15 Pin=R2-2
+Change Component Footprint: Designator=R2 Old Footprint=RESAD1100W55L680D260 New Footprint=RESAD700W45L350D185
+Change Component Comment : Designator=R2 Old Comment=MFR-25FRF52-100R New Comment=2-1623927-3
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESAD1100W55L680D260"; UniqueID = "\YYPYJUCW" ("\YYPYJUCW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623927-3/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2-1623927-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power_Rating"; Value = ".25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2-1623927-3/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623927-3/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage_Rating"; Value = "200 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D15 Pin=R2-1
+Added Pin To Net: NetName=NetLED_1 Pin=R2-2
+Added Room: Name=Schematic

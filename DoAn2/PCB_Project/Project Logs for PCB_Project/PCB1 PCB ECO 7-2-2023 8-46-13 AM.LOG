@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=RELAY? NewDesignator=SW
+Change Component Designator: OldDesignator=RESTART1 NewDesignator=RESTART
+Added Pin To Net: NetName=GND Pin=FLame1-2
+Added Pin To Net: NetName=GND Pin=MQ1-2
+Added Pin To Net: NetName=5V Pin=RELAY1-2
+Added Pin To Net: NetName=5V Pin=RELAY2-2
+Added Pin To Net: NetName=5V Pin=RESTART-2
+Added Pin To Net: NetName=5V Pin=SW-2
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T2-1

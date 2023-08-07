@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R?-1
+Change Component Designator: OldDesignator=a NewDesignator=R12
+Change Component Designator: OldDesignator=sw NewDesignator=RELAY?
+Added Pin To Net: NetName=GND1 Pin=ESP1-29
+Added Pin To Net: NetName=GND1 Pin=R6-1
+Added Pin To Net: NetName=GND1 Pin=R8-1
+Added Pin To Net: NetName=GND1 Pin=R9-1
+Added Pin To Net: NetName=GND1 Pin=R?-1
+Added Net: Name=GND1

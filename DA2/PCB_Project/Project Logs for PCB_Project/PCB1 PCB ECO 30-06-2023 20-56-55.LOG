@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=LCD Old Footprint=JP 1x4 CC New Footprint=JP 1x4 CT
+Change component parameters: Designator = "LCD" ("LCD"); Footprint = "JP 1x4 CC"; UniqueID = "\ANFTERZS" ("\ANFTERZS")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Room: Name=Schematic

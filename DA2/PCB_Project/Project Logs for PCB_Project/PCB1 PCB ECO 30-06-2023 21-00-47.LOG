@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=NetLS?_M Pin=Q2-3
+Removed Member From Class: ClassName=Schematic Member=Q2
+Change Comment: Unknown Component : Q1
+Change component parameters: Component "Q1" not found
+Add Pin To Net: Unknown Pin: Pin Q?-1
+Add Pin To Net: Unknown Pin: Pin Q?-3
+Added Pin To Net: NetName=NetQ?_2 Pin=R3-2
+Added Net: Name=NetQ?_2
+Add Class Member: Failed to add class member : Component Q? 2N2222
+Added Room: Name=Schematic

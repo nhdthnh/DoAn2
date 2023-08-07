@@ -1,0 +1,65 @@
+Added Component: Designator=D3(DIODE 1A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=P3(Medium - Header 3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(ONSC-TO-92-3-29-11)
+Added Component: Designator=Q2(ONSC-TO-92-3-29-11)
+Added Component: Designator=Q3(ONSC-TO-92-3-29-11)
+Added Component: Designator=R10(RES-1/4W)
+Added Component: Designator=R13(RES-1/4W)
+Added Component: Designator=RELAY3(BUTTON  ROUND)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RL3(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D3-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=5V Pin=RELAY3-2
+Added Pin To Net: NetName=5V Pin=RL3-5
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=RL3-4
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=RL3-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=RL3-1
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=RL3-3
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetQ3_2 Pin=R13-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=R3 Pin=ESP1-8
+Added Pin To Net: NetName=R3 Pin=R10-2
+Added Pin To Net: NetName=R3 Pin=RELAY3-1
+Added Net: Name=R3
+Added Pin To Net: NetName=RL3 Pin=ESP1-23
+Added Pin To Net: NetName=RL3 Pin=R13-1
+Added Net: Name=RL3
+Added Member To Class: ClassName=Sheet2 Member=Component D3 100
+Added Member To Class: ClassName=Sheet2 Member=Component P3 Header 3 - M
+Add Class Member: Failed to add class member : Component Q1 BC547B
+Add Class Member: Failed to add class member : Component Q2 BC547B
+Add Class Member: Failed to add class member : Component Q3 BC547B
+Added Member To Class: ClassName=Sheet2 Member=Component R10 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R13 1k
+Added Member To Class: ClassName=Sheet2 Member=Component RELAY3 SW
+Added Member To Class: ClassName=Sheet2 Member=Component RL3 Relay 10A/12V

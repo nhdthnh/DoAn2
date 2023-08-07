@@ -1,0 +1,2 @@
+Remove Pin=LCD-1 From Net=GND
+Add Pin To Net: Pin=LCD-1 Old Net=GND New Net=GND1

@@ -1,0 +1,18 @@
+Added Component: Designator=Q1(ONSC-TO-92-3-29-11)
+Added Component: Designator=Q2(ONSC-TO-92-3-29-11)
+Added Component: Designator=Q3(ONSC-TO-92-3-29-11)
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Class Member: Failed to add class member : Component Q1 BC547B
+Add Class Member: Failed to add class member : Component Q2 BC547B
+Add Class Member: Failed to add class member : Component Q3 BC547B
+Added Member To Class: ClassName=Sheet2 Member=Component R7 330R
+Added Member To Class: ClassName=Sheet2 Member=Component R10 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R11 1k
